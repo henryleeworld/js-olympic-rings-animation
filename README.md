@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/9yPJLJh.gif)
+![](https://i.imgur.com/CvWTiL2.gif)
 > 奧林匹克五環於 1913 年由現代奧林匹克運動會創始人，皮埃爾·德·顧拜旦所設計，因為五色能概括各會員國國旗的顏色而選定
